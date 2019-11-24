@@ -1,2 +1,3 @@
 This is just a sample.
 add add your changes into index
+pull リモートリポジトリの内容を取得する
